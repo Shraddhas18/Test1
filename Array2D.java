@@ -32,6 +32,9 @@ class Array2D
 	
 	
   }
+  System.out.println();
+  System.out.println();
+
 
 
 }
